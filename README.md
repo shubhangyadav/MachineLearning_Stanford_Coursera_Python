@@ -4,7 +4,7 @@ This repository contains Python solutions to all Stanford's Machine Learning cou
 ## Contents
 * Datasets
 * Assignment PDFs
-* Python solutions to programming assignment
+* Python solutions to programming assignments
 
 ## Certificate
 * [Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/MHZVLM9VWB3S)
